@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/stocks-app/static/js/main.a8195090.chunk.js",
+    "main.js.map": "/stocks-app/static/js/main.a8195090.chunk.js.map",
+    "runtime-main.js": "/stocks-app/static/js/runtime-main.86978e02.js",
+    "runtime-main.js.map": "/stocks-app/static/js/runtime-main.86978e02.js.map",
+    "static/css/2.786cb006.chunk.css": "/stocks-app/static/css/2.786cb006.chunk.css",
+    "static/js/2.ff44b374.chunk.js": "/stocks-app/static/js/2.ff44b374.chunk.js",
+    "static/js/2.ff44b374.chunk.js.map": "/stocks-app/static/js/2.ff44b374.chunk.js.map",
+    "index.html": "/stocks-app/index.html",
+    "precache-manifest.75710e384a8ffd417bc7f7a5658138a7.js": "/stocks-app/precache-manifest.75710e384a8ffd417bc7f7a5658138a7.js",
+    "service-worker.js": "/stocks-app/service-worker.js",
+    "static/css/2.786cb006.chunk.css.map": "/stocks-app/static/css/2.786cb006.chunk.css.map",
+    "static/js/2.ff44b374.chunk.js.LICENSE.txt": "/stocks-app/static/js/2.ff44b374.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/stocks-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86978e02.js",
+    "static/css/2.786cb006.chunk.css",
+    "static/js/2.ff44b374.chunk.js",
+    "static/js/main.a8195090.chunk.js"
+  ]
+}
